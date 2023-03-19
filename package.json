@@ -1,0 +1,15 @@
+{
+  "name": "flisa-kino",
+  "version": "1.0.0",
+  "description": "Web scraper for filmweb",
+  "module": "index.mjs",
+  "scripts": {
+    "scrape": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "Even Stensberg <evenstensberg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.7.5"
+  }
+}

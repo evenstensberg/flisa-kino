@@ -1,0 +1,22 @@
+[
+    {
+        "age": "6 år",
+        "duration": "1t 30m",
+        "categories": "Drama / Familiefilm / Musikkfilm",
+        "time": "19:00",
+        "place": "Flisa",
+        "title": "Dancing Queen",
+        "img": "https://www.filmweb.no/incoming/article1510597.ece/REPRESENTATIONS/poster_400x564/Dancing%20Queen",
+        "date": "22.03.2023"
+    },
+    {
+        "age": "6 år",
+        "duration": "2t 27m",
+        "categories": "Drama",
+        "time": "13:00",
+        "place": "Flisa",
+        "title": "De åtte fjellene",
+        "img": "https://www.filmweb.no/article1505793.ece/REPRESENTATIONS/poster_400x564/De%20%C3%A5tte%20fjellene%20DE%20ATTE%20FJELLENE%20A4%20WEB.jpg",
+        "date": "22.03.2023"
+    }
+]
